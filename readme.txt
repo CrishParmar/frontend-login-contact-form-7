@@ -60,6 +60,9 @@ Yes, you can use it in multiple forms. Every from has different option and you c
 
 == Changelog ==
 
+= 3.0 =
+* Add - Adding New feature to login using Facebook
+
 = 2.0 =
 * Change - Update admin UI and options
 * Fix - Solve issue of do not save plugin field dropdown value in admin.
